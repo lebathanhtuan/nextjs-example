@@ -1,0 +1,3 @@
+export const PRODUCT_ACTION = {
+  GET_LIST: 'PRODUCT_ACTION/GET_LIST',
+};
